@@ -21,10 +21,10 @@ body
     top: 37%;
     color: rebeccapurple;
     font-family: 'Righteous', cursive;
-    font-size: 93px;
+    font-size: 85px;
     letter-spacing: 10px;
     text-shadow: 2px 4px 11px rgb(0 0 0 / 28%);
       -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-color: grey;
 }
 
